@@ -9,8 +9,8 @@ export class FooterComponent implements OnInit {
 
   navigationElements = [
     {
-      id: 'whyAbc',
-      text: 'Why abc',
+      id: 'whyCheyutha',
+      text: '{{foundation name}}',
       subElements: [
         {
           subId: 'benefits',
